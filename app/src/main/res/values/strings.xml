@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MeatApp</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!-- TABS -->
+    <string name="tab_home">Home</string>
+    <string name="tab_map">Map</string>
+
+    <!-- HOME -->
+    <string name="home_title">PRESENTATION</string>
+    <string name="home_content">In ACME butcher shops we provide the best meat, cold meat and precooked dishes, among other gourmet delights.</string>
+
+    <string name="home_img1_title">Quality</string>
+    <string name="home_img2_title">24h Service</string>
+    <string name="home_img3_title">Catering</string>
+    <string name="home_img4_title">Delicatessen</string>
+
+    <!-- MENU -->
+    <string name="change_language">Change Language</string>
+
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="google_maps_key">AIzaSyBGg6_P46Hxbn1Zzigm8NVQ8OBUwpIKGEk</string>
+
+    <string name="flickr_api_key">2fdad6c75fcff45357f1f10d50660fc4</string>
+    <string name="flickr_api_secret">8083cbf555868820</string>
+
+</resources>

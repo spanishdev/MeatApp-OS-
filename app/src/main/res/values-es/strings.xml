@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MeatApp</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!-- TABS -->
+    <string name="tab_home">Inicio</string>
+    <string name="tab_map">Mapa</string>
+
+    <!-- HOME -->
+
+    <string name="home_title">PRESENTACIÓN</string>
+    <string name="home_content">En Carnicerías ACME ponemos a su disposición las mejores carnes, embutidos y platos preparados,
+    entre otras delicias gourmet.</string>
+
+    <string name="home_img1_title">Calidad</string>
+    <string name="home_img2_title">Servicio 24h</string>
+    <string name="home_img3_title">Restauración</string>
+    <string name="home_img4_title">Charcutería</string>
+
+    <!-- MENU -->
+    <string name="change_language">Cambiar Idioma</string>
+
+</resources>
